@@ -4,7 +4,7 @@ This project is a beginner-friendly LangChain learning path that connects to LM 
 
 ## Prerequisites
 
-- LM Studio installed
+- LM Studio installed on
 - A model loaded in LM Studio
 - The local server started in LM Studio on `http://localhost:1234`
 - Python 3.10+
